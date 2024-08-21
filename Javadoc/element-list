@@ -1,0 +1,7 @@
+org.example
+org.example.BusinessLogic
+org.example.BusinessLogic.Validators
+org.example.Connection
+org.example.DataAccess
+org.example.Model
+org.example.Presentation
